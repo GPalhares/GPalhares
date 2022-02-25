@@ -6,7 +6,7 @@
 - 🤔 Eu gosto de resolver problemas e criar soluções
 - 📫 Contate-me no email: devpalhares@gmail.com 
 - 📚 Estou lendo o livro: Clean Code
-- ⚡ Fun fact: I play Dota 2 and indie games
+
 
 
   <div align="center">
