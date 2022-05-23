@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Flutter & Android Nativo ...
+- 🌱 Estudando Flutter & Android Nativo & React Native
 - 🤔 Eu gosto de resolver problemas e criar soluções
 - 📫 Contate-me no email: devpalhares@gmail.com 
 - 📚 Estou lendo o livro: Clean Code
