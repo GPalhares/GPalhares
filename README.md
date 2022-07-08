@@ -15,7 +15,7 @@
 </div>
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Palhares-Javascript" height="40" width="40" src="https://flyclipart.com/thumb2/pictures-of-javascript-icon-png-892812.png">
+  <img align="center" alt="Palhares-Javascript" height="40" width="40" src="[https://flyclipart.com/thumb2/pictures-of-javascript-icon-png-892812.png](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png)">
   <img align="center" alt="Palhares-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Palhares-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Palhares-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
