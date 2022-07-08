@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-
-- 🌱 Estudando React Native & Flutter & Android Nativo  
+- 🌱 Estudando Desenvolvimento Web na Trybe
 - 🤔 Eu gosto de resolver problemas e criar soluções
 - 📫 Contate-me no email: devpalhares@gmail.com 
-- 📚 Estou lendo o livro: Clean Code
+
 
 
 
