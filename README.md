@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=34&pause=1000&color=24F768&background=000000&vCenter=true&width=435&lines=Bem+vindo+ao+meu+Github;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 - 🌱 Estudando Desenvolvimento Web na Trybe
@@ -15,7 +15,7 @@
 </div> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username==GPalhares&theme=monokai&hide_title=true&layout=default" /> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=34&pause=1000&color=24F768&background=000000&vCenter=true&width=435&lines=Bem+vindo+ao+meu+Github;Full+Stack+Developer)](https://git.io/typing-svg)
+
 
   </div>
 <div style="display: inline_block"><br>
