@@ -6,7 +6,6 @@
 - 📫 Contate-me no email: devpalhares@gmail.com 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=dracula)
 
 <!-- 
   <div align="center">
