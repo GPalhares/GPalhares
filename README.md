@@ -39,7 +39,7 @@
   <br></br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPalhares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpalhares/) />
+<a [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpalhares/){:target="_blank"} />
 
  
 </div>
