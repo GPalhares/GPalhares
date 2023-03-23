@@ -24,7 +24,7 @@
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+    <img align="center" alt="Node" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
   
 </div>
 
