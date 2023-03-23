@@ -34,7 +34,7 @@
 ##
 
 <div> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=radical)
+  
 
 
   <a href = "mailto:devpalhares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,3 +44,4 @@
  
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=radical)
