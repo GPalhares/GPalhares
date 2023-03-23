@@ -34,12 +34,13 @@
 ##
 
 <div> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=radical)
 
 
   <a href = "mailto:devpalhares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-palhares-miranda-8378b5215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GPalhares/GPalhares/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/GPalhares/GPalhares/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
