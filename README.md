@@ -37,9 +37,12 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=radical)
   <br></br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPalhares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <div  style="margin: 20px;">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPalhares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <img src = "https://camo.githubusercontent.com/8459b7b5490a054608bd2135dd332d3336ff8c27ecc0fc1b5027912e83399ec6/68747470733a2f2f69302e77702e636f6d2f312e62702e626c6f6773706f742e636f6d2f2d506572656e4d66496a434d2f587063796f485758537a492f4141414141414141422d672f4475506a5f496f5357414d6f643370567934654579613475786b2d4b4e30557541434c63424741735948512f73313630302f747970696e67253242636174253242676966332e6769663f726573697a653d3432302532433331302673736c3d"/>
+</div>
+
 
   
 
