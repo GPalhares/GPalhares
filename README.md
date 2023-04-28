@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=34&pause=1000&color=24F768&background=000000&vCenter=true&width=435&lines=Bem+vindo+ao+meu+Github;Full+Stack+Developer)](https://git.io/typing-svg)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=515EA8&height=120&section=header"/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7A8EFF&background=46869A00&width=435&lines=Web+Developer;Full+Stack)](https://git.io/typing-svg)
+  
+</div>
 
 - 🌱 Estudando Desenvolvimento Web na Trybe
 - 🤔 Eu gosto de resolver problemas e criar soluções
@@ -35,10 +39,10 @@
 
 <div> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPalhares&show_icons=true&theme=tokyonight)
   <br></br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPalhares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPalhares&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <img src = "https://camo.githubusercontent.com/8459b7b5490a054608bd2135dd332d3336ff8c27ecc0fc1b5027912e83399ec6/68747470733a2f2f69302e77702e636f6d2f312e62702e626c6f6773706f742e636f6d2f2d506572656e4d66496a434d2f587063796f485758537a492f4141414141414141422d672f4475506a5f496f5357414d6f643370567934654579613475786b2d4b4e30557541434c63424741735948512f73313630302f747970696e67253242636174253242676966332e6769663f726573697a653d3432302532433331302673736c3d"/>
 
 
@@ -49,3 +53,4 @@
 
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=515EA8&height=120&section=footer"/>
