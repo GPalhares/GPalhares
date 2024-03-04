@@ -5,7 +5,7 @@
   
 </div>
 
-- 🌱 Estudando Desenvolvimento Web na Trybe
+- 🌱 Desenvolvedor Front End
 - 🤔 Eu gosto de resolver problemas e criar soluções
 - 📫 Contate-me no email: devpalhares@gmail.com 
 
