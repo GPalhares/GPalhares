@@ -5,15 +5,15 @@
   
 </div>
 
-- 🌱 Desenvolvedor Front End
-- 🤔 Eu gosto de resolver problemas e criar soluções
-- 📫 Contate-me no email: devpalhares@gmail.com 
+- 🌱 Software Developer
+- 🤔 I like solving problems and creating solutions
+- 📫 Contact me at email: devpalhares@gmail.com
 
 
 
 ---  
   
-<h2> 🚀 &nbsp; Linguagens e Ferramentas que eu uso</h2>
+<h2> 🚀 &nbsp; My Stack</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
